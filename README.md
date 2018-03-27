@@ -1,2 +1,2 @@
 # helloword
-just 啊
+just a rubbish
